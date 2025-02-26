@@ -1,4 +1,4 @@
-package com.google.ml.kit.flutter.example
+package com.vis.tw.picture
 
 import io.flutter.embedding.android.FlutterActivity
 
