@@ -9,12 +9,11 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:path_provider/path_provider.dart';
 import 'package:http/io_client.dart'; // Add this import
+import 'app_config.dart';
 
 late List<CameraDescription> cameras;
 
 class CupertinoStoreApp extends StatelessWidget {
-  //const CupertinoStoreApp({Key? key, required cameras}) : super(key: key);
-
   @override
   Widget build(BuildContext context) {
     SystemChrome.setPreferredOrientations(

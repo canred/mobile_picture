@@ -1,0 +1,1 @@
+ /Users/huihongchen/GitHub/mobile_picture/.dart_tool/flutter_build/6812d99471389789d1057c4e7fe02d5c/native_assets.yaml: 
