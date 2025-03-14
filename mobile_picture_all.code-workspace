@@ -4,10 +4,10 @@
 			"path": "../mobile_picture_api"
 		},
 		{
-			"path": "../materialm-free-angular-v2/main"
+			"path": "."
 		},
 		{
-			"path": "."
+			"path": "../mobild_picture_ng/mobile_app"
 		}
 	],
 	"settings": {}
